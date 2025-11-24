@@ -95,7 +95,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Support for Laravel 12
 
-[Unreleased]: https://github.com/NikolaGavric94/nikolag-core/compare/v2.8.0...HEAD
+[Unreleased]: https://github.com/NikolaGavric94/nikolag-core/compare/v3.0.0...HEAD
 [1.1.0]: https://github.com/NikolaGavric94/nikolag-core/compare/v1.0.2...v1.1.0
 [1.0.2]: https://github.com/NikolaGavric94/nikolag-core/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/NikolaGavric94/nikolag-core/compare/v1.0.0...v1.0.1
